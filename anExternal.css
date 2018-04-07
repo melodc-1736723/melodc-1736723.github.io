@@ -3,7 +3,7 @@
     <head>
     <style>
         body {
-            background-color: powderblue;
+            background-color: lightblue;
             font-family: helvetica;
             font-size: 500%;
             text-align: center;
@@ -11,7 +11,7 @@
         h1   {
             color: purple;
             font-family: helvetica;
-            font-size: 200;
+            font-size: 200%;
             text-align: center;
         }
         h2 {
